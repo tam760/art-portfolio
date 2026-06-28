@@ -1,0 +1,17 @@
+# Sensitive config (contains DB credentials)
+config.php
+
+# Database dumps
+*.sql
+
+# Uploads (user content, large files)
+uploads/
+
+# RTF docs
+*.rtf
+
+# OS/editor junk
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
