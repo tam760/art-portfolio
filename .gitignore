@@ -1,5 +1,5 @@
-# Sensitive config (contains DB credentials)
-config.php
+# Database dumps
+*.sql
 
 # Database dumps
 *.sql
